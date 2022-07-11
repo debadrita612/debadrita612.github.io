@@ -1,0 +1,44 @@
+.c-wrapper {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-title {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.c-social {
+    padding: 10px;
+}
+
+.c-social a {
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(170, 170, 170);
+}
+
+.c-social a:hover {
+    color: #222;
+}
+
+.c-footer {
+    padding-top: 40px;
+}
+
+@media(max-width:480px) {
+    .c {
+        height: 40vh;
+    }
+
+    .c-title {
+        font-size: 30px;
+    }
+
+    .c-footer {
+        font-size: 12px;
+    }
+}
