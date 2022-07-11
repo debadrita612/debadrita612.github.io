@@ -29,7 +29,7 @@ export const projects = [
     },
     {
         id: 5,
-        img: "https://github.com/debadrita612/debadrita612.github.io/blob/gh-pages/preview_portfolio.png?raw=true",
+        img: "https://github.com/debadrita612/test_repo/blob/master/preview_portfolio.png?raw=true",
         title: "Portfolio Website",
         link: "https://debadrita612.github.io/",
         desc: "Tech Stack: HTML, CSS and React JS. My own portfolio website. You can check out my skills and experiences."
