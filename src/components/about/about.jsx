@@ -14,12 +14,12 @@ const About = () => {
             <div className="a-right">
                 <h1 className="a-title">About Me</h1>
                     <p className="a-desc">
-                    I am pursuing Bachelors in Computer Science Engineering. I am an enthusiastic learner who is always ready to take up new challenges and learn new skills. I love to exchange ideas, spread knowledge and positivity. 
+                    I am a final year undergraduate in Computer Science Engineering. An enthusiastic learner who is always ready to take up new challenges and learn new skills. I have a deep interest in Web development. I love to exchange ideas, spread knowledge and positivity. 
                     </p>
                 <h1 className="a-edu">Education</h1>
                     <ul className="a-edu-desc">
                         <li>B.Tech in Computer Science Engineering 
-                            <p>CGPA = 9.81 (Upto 4th Sem)</p></li>
+                            <p>CGPA = 9.62 (Upto 5th Sem)</p></li>
                         <li>12th - Bholananda National Vidyalaya (CBSE) 
                             <p>Score : 94% (PCM)</p></li>
                         <li>10th - Modern English Academy (ICSE) 

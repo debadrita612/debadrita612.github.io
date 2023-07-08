@@ -7,9 +7,9 @@ const ProjectList = () => {
     return (
         <div className="pl">
             <div className="pl-texts">
-                <h1 className="pl-title">My Projects</h1>
+                <h1 className="pl-title">Projects</h1>
                 <p className="pl-desc">
-                    I have worked on various frontend projects. Check them out below :) 
+                    I have hands-on experience in full stack web development projects. Check them out below. 
                 </p>
             </div>
             <div className="pl-list">
